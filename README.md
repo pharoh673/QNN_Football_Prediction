@@ -17,7 +17,7 @@ The notebook combines:
 ## 🔍 QNN Decision Surface
 
 ![QNN decision surface](qnn_decision_surface.png)
-
+![Feature importance](permutation_feature_importance.png)
 ---
 
 ## 🚀 Project Overview
