@@ -14,6 +14,10 @@ The notebook combines:
 - a variational quantum circuit with data re-uploading
 - modern ML training, evaluation, and interpretability tools
 
+## 🔍 QNN Decision Surface
+
+![QNN decision surface](qnn_decision_surface.png)
+
 ---
 
 ## 🚀 Project Overview
