@@ -124,4 +124,39 @@ This turns the trained quantum model into an interactive tool.
 ---
 
 ## 📂 Repository Structure
+├── leo-football1.ipynb
+├── figures/
+│ ├── qnn_decision_surface.png
+│ ├── permutation_feature_importance.png
+│ └── training_curves.png
+├── README.md
+└── requirements.txt
+
+
+
+---
+
+## 🔗 Kaggle Notebook (with outputs)
+
+The fully executed notebook (including plots and interactive output) is available on Kaggle:
+
+👉 https://www.kaggle.com/code/leoashi/leo-football1
+
+---
+
+## 🎯 Key Takeaways
+
+- Demonstrates **real-world Quantum Machine Learning**
+- Combines **sports analytics + QML**
+- Uses advanced techniques: data re-uploading, adjoint gradients, interpretability
+- Goes beyond toy datasets into **large-scale, noisy, real data**
+
+---
+
+## 📬 Contact
+
+Feel free to open issues or reach out if you’d like to discuss:
+- Quantum ML
+- Sports analytics
+- Hybrid quantum–classical models
 
