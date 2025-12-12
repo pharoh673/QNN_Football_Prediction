@@ -131,11 +131,11 @@ This turns the trained quantum model into an interactive tool.
 ## 📂 Repository Structure
 ├── leo-football1.ipynb
 ├── figures/
-│ ├── qnn_decision_surface.png
-│ ├── permutation_feature_importance.png
-│ └── training_curves.png
+├── qnn_decision_surface.png
+├── permutation_feature_importance.png
+└── data.png
 ├── README.md
-└── requirements.txt
+
 
 
 
